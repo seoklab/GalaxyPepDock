@@ -24,7 +24,7 @@ The GalaxyPepDock distribution version supports only **Linux 64-bit** OS and bin
 4. Check the downloaded files
  * There should exist:
   * bin: directory for executables  
-    There should be build_initial_model, generate_model, generate_model.mpi and **GalaxyPepDock**
+    There should be build_initial_model, generate_model, generate_model.mpi and **GalaxyPepDock** for various computing environemnts.
   * data: directory for data files
   * examples: directory for example files
 
@@ -33,8 +33,8 @@ The GalaxyPepDock distribution version supports only **Linux 64-bit** OS and bin
     (*example*: export GALAXY_HOME=/applic/GalaxyPepDock)
 
 6. Find a proper GalaxyPepDock executable
- * We have compiled Python scripts using PyInstaller, and it uses built-in Linux C libraries. Since, each computing
-   environments may have different C libraries, so you need to find a working version with your environment. If all of
+ * We have compiled Python scripts using PyInstaller, and it uses built-in Linux C libraries. Since each computing
+   environment may have different C libraries, you need to find a compatible version with your environment. If all of
    them are not working, then please ask us with your computing environment.
  * We supply four different GalaxyPepDock executables having compiled on different environments
     * CentOS 6.6 w GNU_libc ver 2.12       : bin/GalaxyPepDock.centos66
@@ -43,14 +43,14 @@ The GalaxyPepDock distribution version supports only **Linux 64-bit** OS and bin
     * Ubuntu 16.04 LTS w GNU libc ver 2.23 : bin/GalaxyPepDock.ubuntu1604
 
 7. Set MPI environment (optional)
- * GalaxyPepDock supports MPICH, so if you have installed MPICH, you can run it in parallel.
- * GalaxyPepDock has been tested with MPICH hydra (http://www.mpich.org/static/downloads/3.2/hydra-3.2.tar.gz).
+ * GalaxyPepDock supports MPICH hydra. If you have installed MPICH, you can run it in parallel.
+ * If you don't have installed MPICH, please download & install it from http://www.mpich.org/static/downloads/3.2/hydra-3.2.tar.gz .
  * You can use parallel version of GalaxyPepDock by setting EXEC_MPI environment
     * (in BASH) export EXEC_MPI=$PATH_TO_THE_MPIEXEC (*example*: export EXEC_MPI=/opt/mpi/mpich/bin/mpiexec)
  * You can set the number of CPU to use by setting NSLOTS environment
     * (in BASH) export NSLOTS=8
-    * Since it will use CPUs up to the number of simulation trajectories (40),
-    so we recommend you to set it one of the divisor (i.e., 4, 8, 10, etc.) to make it efficient.
+    * Since it will use CPUs upto the number of simulation trajectories (40),
+    we recommend you to set it one of the divisor (i.e., 4, 8, 10, etc.) to make it efficient.
 
 ## 2. How to use GalaxyPepDock
 1. Prepare the input protein structure in PDB format and the input peptide sequence in FASTA format.
