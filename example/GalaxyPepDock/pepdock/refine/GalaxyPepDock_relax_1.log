@@ -1,0 +1,128 @@
+Check global input consistency...
+Done.
+- Energy parameter is set to Cassiopeia.
+- Finished with read_parameters.
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_charmm22ph.in
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_charmm22ph_nt.in
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_charmm22ph_ct.in
+- Finished with read_topology_geo.
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_eng_charmm22ph.in
+  Num_ref_res =    77
+- Finished with read_topology_eng.
+- Rotamer setup
+  Reading rotamer library file  /home/mink/git/GalaxyPepDock_src/data/bbdep02.May.sortlib
+  Total number of rotamers in rot lib file      466829
+  Reading infile_chi_def file  /home/mink/git/GalaxyPepDock_src/data/def_chi.in
+  Random seed =     565328
+Reading generate_model_input
+============================================================
+------------------------------------------------------------
+  Reading sequence from pdb file: GalaxyPepDock_relax_1_init.pdb
+  Reading pdb file: GalaxyPepDock_relax_1_init.pdb
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+- Fix type "none" activated: All atoms are free to move.
+- Energy: MM energy activated.
+- Energy: Solvation energy activated.
+- Energy: Rotamer score activated.
+- Energy: Ramachandran score activated.
+  Ramachandran score mode is set to "neighbor-dependent".
+- Energy: Rosetta H-bond energy activated.
+- Energy: dDFIRE energy activated.
+Schedule is set to PERTMD default.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1306 Restraints found from {rsr_file}.
+  1306 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1294 Restraints found from {rsr_file}.
+  1294 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1304 Restraints found from {rsr_file}.
+  1304 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1357 Restraints found from {rsr_file}.
+  1357 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1282 Restraints found from {rsr_file}.
+  1282 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1289 Restraints found from {rsr_file}.
+  1289 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1274 Restraints found from {rsr_file}.
+  1274 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1291 Restraints found from {rsr_file}.
+  1291 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1273 Restraints found from {rsr_file}.
+  1273 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+------------------------------------------------------------
+Replacing perturbing sidechains to initial-guess rotamers...
+  1289 Restraints found from {rsr_file}.
+  1289 restraints are set to Regular type with maximum 100 parameters.
+     0 restraints are set to Long type with maximum 400 parameters.
+------------------------------------------------------------
+Total User Time =   2644.682 sec
+           0 dy  0 hr 44 min  4.682 sec
+------------------------------------------------------------

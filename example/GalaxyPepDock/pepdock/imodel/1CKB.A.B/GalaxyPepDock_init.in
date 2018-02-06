@@ -1,0 +1,11 @@
+data_directory    /home/mink/git/GalaxyPepDock_src/data
+top_type          polarh
+!
+print_level       30
+!
+infile_pdb        GalaxyPepDock_init.pdb
+outfile_prefix    GalaxyPepDock_init
+fix_atom_file     GalaxyPepDock_1CKB_init.fix
+!
+close_loop      1    1
+close_loop      9    9

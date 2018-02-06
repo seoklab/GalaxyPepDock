@@ -1,0 +1,32 @@
+ Reading fix_atom_file.
+Check global input consistency...
+Done.
+- Finished with read_parameters.
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_charmm22ph.in
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_charmm22ph_nt.in
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_charmm22ph_ct.in
+- Finished with read_topology_geo.
+  Reading topology file: /home/mink/git/GalaxyPepDock_src/data/topology_eng_charmm22ph.in
+  Num_ref_res =    77
+- Finished with read_topology_eng.
+- Rotamer setup
+  Reading rotamer library file  /home/mink/git/GalaxyPepDock_src/data/bbdep02.May.sortlib
+  Total number of rotamers in rot lib file      466829
+  Reading infile_chi_def file  /home/mink/git/GalaxyPepDock_src/data/def_chi.in
+  Random seed =     565012
+Task: build_initial_model
+============================================================
+  Reading sequence from pdb file: GalaxyPepDock_init.pdb
+  Reading pdb file: GalaxyPepDock_init.pdb
+- Add missing atoms activated.
+  Number of added heavy atoms =     0
+  Total number of added atoms =     0
+  n_unplaced =     0
+- Fix type "all" activated: All atoms except ULR/USC are fixed.
+- Energy: MM energy activated.
+  Ramachandran score mode is set to "neighbor-dependent".
+ - Connecting Loops (ignore):     9    9
+------------------------------------------------------------
+Total User Time =      1.847 sec
+           0 dy  0 hr  0 min  1.847 sec
+------------------------------------------------------------

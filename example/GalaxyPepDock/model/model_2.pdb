@@ -1,0 +1,968 @@
+REMARK INIT_PDB GalaxyPepDock_relax_1_init.pdb  MODEL    2
+REMARK PDB_FILE GalaxyPepDock_relax_1_2_1.pdb
+REMARK Before MD-based model generation,energy minimized,GalaxyPepDock_relax_1_2_1.pdb
+REMARK ENERGY.0      -2243.561
+REMARK ENERGY.1      -2243.561        0.000        0.000
+REMARK ENERGY.2.0     23.564    110.769    145.247      8.790   -386.030   -425.143   -347.895    197.068    -87.889   -829.064    -62.956   -449.502   -144.510      0.000      0.000      0.994      2.996      0.000      0.000      0.000
+REMARK ENERGY.2.1
+REMARK ENERGY.2.2
+REMARK After model generation,energy minimized,GalaxyPepDock_relax_1_2_1.pdb
+REMARK ENERGY.0      -2358.015
+REMARK ENERGY.1      -2358.015        0.000        0.000
+REMARK ENERGY.2.0     19.128     96.545    138.708      8.247   -433.877   -463.147   -313.715    177.029    -57.105   -847.001    -75.825   -476.011   -151.237      0.000      0.000      5.849     14.395      0.000      0.000      0.000
+REMARK ENERGY.2.1
+REMARK ENERGY.2.2
+REMARK MD_STEP  Time=    0.200 ps  Total_E=    -1015.647  Kinetic_E=      625.892  Potential_E=    -1641.539    -1641.539        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    213.568    285.528    185.289     60.066   -359.634   -404.103   -363.330    195.149    -14.225   -825.449    -61.073   -447.753   -127.686      0.000      0.000      5.841     16.274      0.000      0.000      0.000
+REMARK MD_STEP  Time=    0.400 ps  Total_E=    -1031.455  Kinetic_E=      598.265  Potential_E=    -1629.720    -1629.720        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    219.941    277.042    185.406     54.221   -360.260   -419.216   -351.877    193.599     -8.867   -825.431    -53.836   -453.776   -123.550      0.000      0.000      9.847     27.036      0.000      0.000      0.000
+REMARK MD_STEP  Time=    0.600 ps  Total_E=    -1059.377  Kinetic_E=      591.940  Potential_E=    -1651.316    -1651.316        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    235.678    287.738    178.075     53.935   -356.161   -436.098   -338.477    191.538    -17.878   -827.086    -67.507   -455.322   -128.038      0.000      0.000      7.046     21.241      0.000      0.000      0.000
+REMARK MD_STEP  Time=    0.800 ps  Total_E=    -1075.361  Kinetic_E=      594.996  Potential_E=    -1670.357    -1670.357        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    211.331    279.565    187.382     60.898   -357.912   -433.796   -336.441    188.257    -27.782   -828.881    -48.874   -454.134   -132.003      0.000      0.000      5.952     16.082      0.000      0.000      0.000
+REMARK MD_STEP  Time=    1.000 ps  Total_E=    -1104.133  Kinetic_E=      583.254  Potential_E=    -1687.387    -1687.387        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    219.163    276.467    181.635     59.476   -375.107   -423.993   -343.122    187.679    -31.136   -819.381    -50.390   -456.679   -139.385      0.000      0.000      6.934     20.450      0.000      0.000      0.000
+REMARK MD_STEP  Time=    1.200 ps  Total_E=    -1113.289  Kinetic_E=      585.791  Potential_E=    -1699.079    -1699.079        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    208.415    299.661    188.216     62.119   -354.966   -437.053   -334.911    183.666    -41.491   -838.500    -63.904   -459.424   -138.942      0.000      0.000      8.286     19.749      0.000      0.000      0.000
+REMARK    1th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:    4    5   25   54   55
+REMARK pertSC o   1  0    -1665.886    -1666.869     -0.983    100.00
+REMARK Perturbing pocket residues:   49   50   51   53   63
+REMARK pertSC o   2  1    -1666.869    -1667.091     -0.223    100.00
+REMARK Perturbing pocket residues:   28   31   37   38   49
+REMARK pertSC o   3  2    -1667.091    -1671.361     -4.270    100.00
+REMARK MD_STEP  Time=    1.400 ps  Total_E=    -1059.308  Kinetic_E=      586.359  Potential_E=    -1645.667    -1645.667        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    206.796    263.068    200.630     67.835   -373.986   -439.871   -330.275    179.750     36.419   -829.036    -66.594   -456.973   -134.142      0.000      0.000      9.830     20.882      0.000      0.000      0.000
+REMARK MD_STEP  Time=    1.600 ps  Total_E=    -1047.524  Kinetic_E=      600.645  Potential_E=    -1648.170    -1648.170        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    219.632    264.727    188.401     59.406   -371.938   -445.643   -320.664    180.426     39.310   -838.888    -58.639   -459.468   -137.218      0.000      0.000      9.337     23.048      0.000      0.000      0.000
+REMARK MD_STEP  Time=    1.800 ps  Total_E=    -1139.948  Kinetic_E=      603.041  Potential_E=    -1742.989    -1742.989        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    194.484    238.527    181.419     52.023   -391.339   -469.491   -299.790    178.562     40.031   -840.176    -59.733   -462.026   -132.478      0.000      0.000      8.591     18.407      0.000      0.000      0.000
+REMARK Perturbing pocket residues:    9   10   11   17   19
+REMARK pertSC o   1  0    -1742.989    -1745.549     -2.561    100.00
+REMARK Perturbing pocket residues:   35   50   62   63   64
+REMARK pertSC o   2  1    -1745.549    -1745.549      0.000    100.00
+REMARK Perturbing pocket residues:    9   10   11   17   19
+REMARK pertSC o   3  2    -1745.549    -1745.549      0.000    100.00
+REMARK MD_STEP  Time=    2.000 ps  Total_E=    -1065.968  Kinetic_E=      607.041  Potential_E=    -1673.009    -1673.009        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    214.228    270.918    189.021     56.779   -407.929   -452.937   -312.013    175.421     50.347   -835.280    -61.762   -456.718   -133.207      0.000      0.000      8.713     21.410      0.000      0.000      0.000
+REMARK MD_STEP  Time=    2.200 ps  Total_E=    -1035.986  Kinetic_E=      609.108  Potential_E=    -1645.095    -1645.095        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    211.466    296.040    188.145     55.109   -399.166   -451.286   -313.079    174.459     54.311   -833.626    -70.638   -461.703   -124.405      0.000      0.000      7.619     21.659      0.000      0.000      0.000
+REMARK MD_STEP  Time=    2.400 ps  Total_E=    -1079.179  Kinetic_E=      576.996  Potential_E=    -1656.175    -1656.175        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    219.953    267.320    190.223     60.586   -392.416   -482.964   -288.138    172.100     47.481   -827.143    -64.521   -462.032   -121.981      0.000      0.000      7.364     17.994      0.000      0.000      0.000
+REMARK    2th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   35   50   52   63   64
+REMARK pertSC o   1  0    -1656.175    -1658.793     -2.618    100.00
+REMARK Perturbing pocket residues:   28   29   30   38   40
+REMARK pertSC o   2  1    -1658.793    -1661.606     -2.813    100.00
+REMARK Perturbing pocket residues:    8   59   60
+REMARK pertSC o   3  2    -1661.606    -1661.606      0.000    100.00
+REMARK MD_STEP  Time=    2.600 ps  Total_E=    -1090.580  Kinetic_E=      606.041  Potential_E=    -1696.620    -1696.620        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    230.392    259.992    183.793     48.002   -412.182   -463.394   -301.403    175.171     41.408   -837.816    -66.544   -462.485   -117.397      0.000      0.000      6.845     18.996      0.000      0.000      0.000
+REMARK MD_STEP  Time=    2.800 ps  Total_E=    -1043.773  Kinetic_E=      595.116  Potential_E=    -1638.889    -1638.889        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    237.693    271.118    191.300     48.163   -400.214   -463.690   -297.379    173.171     43.777   -830.289    -67.244   -465.396   -112.135      0.000      0.000      8.299     23.937      0.000      0.000      0.000
+REMARK MD_STEP  Time=    3.000 ps  Total_E=    -1048.526  Kinetic_E=      583.576  Potential_E=    -1632.102    -1632.102        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    222.571    281.085    206.867     51.857   -398.485   -470.352   -297.749    172.226     41.824   -831.149    -59.653   -459.810   -117.767      0.000      0.000      7.406     19.027      0.000      0.000      0.000
+REMARK Perturbing pocket residues:    9   20   21   22   24
+REMARK pertSC o   1  0    -1632.102    -1639.745     -7.643    100.00
+REMARK Perturbing pocket residues:   35   50   62   63   64
+REMARK pertSC o   2  1    -1639.745    -1639.745      0.000    100.00
+REMARK Perturbing pocket residues:    8   10   50   53   54
+REMARK pertSC o   3  2    -1639.745    -1642.769     -3.024    100.00
+REMARK MD_STEP  Time=    3.200 ps  Total_E=    -1075.960  Kinetic_E=      596.438  Potential_E=    -1672.398    -1672.398        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    224.991    261.060    189.656     56.792   -416.819   -452.970   -313.230    175.897     43.759   -828.348    -56.417   -459.806   -123.491      0.000      0.000      8.457     18.071      0.000      0.000      0.000
+REMARK MD_STEP  Time=    3.400 ps  Total_E=    -1053.400  Kinetic_E=      592.064  Potential_E=    -1645.465    -1645.465        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    233.903    281.512    189.405     59.154   -413.230   -445.431   -319.491    179.953     58.043   -835.124    -65.649   -459.624   -131.424      0.000      0.000      6.353     16.187      0.000      0.000      0.000
+REMARK MD_STEP  Time=    3.600 ps  Total_E=    -1063.389  Kinetic_E=      592.419  Potential_E=    -1655.808    -1655.808        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    218.782    269.909    193.253     57.541   -393.674   -464.437   -305.541    178.033     61.242   -835.345    -72.020   -462.453   -132.049      0.000      0.000      9.084     21.868      0.000      0.000      0.000
+REMARK    3th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   13   14   17   62   65
+REMARK pertSC o   1  0    -1655.808    -1662.322     -6.514    100.00
+REMARK Perturbing pocket residues:    3    4    5   26   54
+REMARK pertSC o   2  1    -1662.322    -1662.701     -0.379    100.00
+REMARK Perturbing pocket residues:    2    3    4   55   56
+REMARK pertSC o   3  2    -1662.701    -1670.419     -7.717    100.00
+REMARK MD_STEP  Time=    3.800 ps  Total_E=    -1081.500  Kinetic_E=      592.967  Potential_E=    -1674.467    -1674.467        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    209.926    275.051    189.814     61.636   -396.806   -462.083   -308.272    179.777     43.822   -845.633    -54.657   -464.704   -130.417      0.000      0.000      7.678     20.398      0.000      0.000      0.000
+REMARK MD_STEP  Time=    4.000 ps  Total_E=    -1077.601  Kinetic_E=      603.498  Potential_E=    -1681.099    -1681.099        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    212.929    250.984    184.804     68.838   -381.778   -465.040   -310.373    179.309     54.242   -840.597    -60.730   -466.224   -129.514      0.000      0.000      5.890     16.161      0.000      0.000      0.000
+REMARK MD_STEP  Time=    4.200 ps  Total_E=    -1062.394  Kinetic_E=      596.935  Potential_E=    -1659.329    -1659.329        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    227.482    270.833    188.734     50.611   -396.829   -456.161   -313.149    179.353     42.093   -826.989    -57.964   -457.222   -132.608      0.000      0.000      6.178     16.310      0.000      0.000      0.000
+REMARK Perturbing pocket residues:    2    4   54   55   56
+REMARK pertSC o   1  0    -1659.329    -1659.329      0.000    100.00
+REMARK Perturbing pocket residues:    7    8   53   54   55
+REMARK pertSC o   2  1    -1659.329    -1661.924     -2.595    100.00
+REMARK Perturbing pocket residues:   24   25   41   42   43
+REMARK pertSC o   3  2    -1661.924    -1664.049     -2.125    100.00
+REMARK MD_STEP  Time=    4.400 ps  Total_E=    -1078.976  Kinetic_E=      566.077  Potential_E=    -1645.053    -1645.053        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    234.480    271.665    189.148     59.623   -378.819   -463.152   -308.160    174.867     45.614   -837.872    -57.271   -459.620   -138.201      0.000      0.000      6.320     16.325      0.000      0.000      0.000
+REMARK MD_STEP  Time=    4.600 ps  Total_E=    -1108.570  Kinetic_E=      586.712  Potential_E=    -1695.282    -1695.282        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    219.099    283.279    188.090     58.720   -388.738   -473.840   -301.095    174.446     38.366   -835.813    -86.481   -464.139   -134.980      0.000      0.000      7.789     20.014      0.000      0.000      0.000
+REMARK MD_STEP  Time=    4.800 ps  Total_E=    -1082.019  Kinetic_E=      602.280  Potential_E=    -1684.299    -1684.299        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    212.830    279.386    182.662     62.010   -411.120   -455.269   -315.375    172.730     50.021   -836.336    -56.903   -460.603   -140.393      0.000      0.000      9.815     22.244      0.000      0.000      0.000
+REMARK    4th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   33   35   36   48   50
+REMARK pertSC o   1  0    -1659.288    -1663.613     -4.324    100.00
+REMARK Perturbing pocket residues:   13   14   16   17   48
+REMARK pertSC o   2  1    -1663.613    -1664.601     -0.988    100.00
+REMARK Perturbing pocket residues:   30   31   32   33   38
+REMARK pertSC o   3  2    -1664.601    -1673.728     -9.127    100.00
+REMARK MD_STEP  Time=    5.000 ps  Total_E=    -1064.603  Kinetic_E=      584.259  Potential_E=    -1648.862    -1648.862        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    236.507    292.353    179.371     59.649   -404.221   -453.349   -312.714    174.935     34.869   -834.652    -58.125   -460.589   -133.239      0.000      0.000      8.985     21.357      0.000      0.000      0.000
+REMARK MD_STEP  Time=    5.200 ps  Total_E=    -1067.952  Kinetic_E=      604.244  Potential_E=    -1672.196    -1672.196        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    214.865    286.908    178.546     55.924   -389.951   -473.285   -299.937    175.948     34.397   -827.448    -55.528   -464.505   -136.310      0.000      0.000      8.513     19.668      0.000      0.000      0.000
+REMARK MD_STEP  Time=    5.400 ps  Total_E=    -1044.225  Kinetic_E=      599.095  Potential_E=    -1643.320    -1643.320        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    227.948    296.885    189.694     55.709   -403.948   -488.590   -285.256    176.333     43.446   -831.384    -48.631   -465.051   -134.891      0.000      0.000      6.923     17.493      0.000      0.000      0.000
+REMARK Perturbing pocket residues:   27   29   40   41   46
+REMARK pertSC o   1  0    -1643.320    -1646.199     -2.879    100.00
+REMARK Perturbing pocket residues:   14   16   17   18   48
+REMARK pertSC o   2  1    -1646.199    -1647.173     -0.975    100.00
+REMARK Perturbing pocket residues:   13   50   60   62   63
+REMARK pertSC o   3  2    -1647.173    -1650.377     -3.204    100.00
+REMARK MD_STEP  Time=    5.600 ps  Total_E=    -1064.258  Kinetic_E=      605.367  Potential_E=    -1669.625    -1669.625        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    232.079    276.978    193.645     63.702   -401.935   -499.435   -272.067    175.956     34.418   -837.480    -53.756   -472.468   -137.635      0.000      0.000      8.297     20.079      0.000      0.000      0.000
+REMARK MD_STEP  Time=    5.800 ps  Total_E=    -1055.247  Kinetic_E=      602.037  Potential_E=    -1657.284    -1657.284        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    218.882    287.075    189.115     52.593   -388.422   -494.482   -275.505    176.295     35.358   -837.373    -56.151   -467.736   -127.134      0.000      0.000      7.942     22.260      0.000      0.000      0.000
+REMARK MD_STEP  Time=    6.000 ps  Total_E=    -1043.329  Kinetic_E=      585.718  Potential_E=    -1629.047    -1629.047        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    233.222    282.576    190.873     58.218   -395.664   -506.880   -264.330    175.779     54.177   -831.291    -71.785   -469.522   -116.275      0.000      0.000      8.446     23.409      0.000      0.000      0.000
+REMARK    5th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   14   15   16   17
+REMARK pertSC o   1  0    -1610.988    -1615.131     -4.143    100.00
+REMARK Perturbing pocket residues:    4   49   53   54   55
+REMARK pertSC o   2  1    -1615.131    -1615.131      0.000    100.00
+REMARK Perturbing pocket residues:    8   10   53   59   60
+REMARK pertSC o   3  2    -1615.131    -1615.131      0.000    100.00
+REMARK MD_STEP  Time=    6.200 ps  Total_E=    -1096.837  Kinetic_E=      578.057  Potential_E=    -1674.894    -1674.894        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    225.527    256.345    183.969     56.299   -385.593   -492.993   -276.506    175.876     43.346   -837.494    -51.640   -469.004   -129.320      0.000      0.000      6.916     19.377      0.000      0.000      0.000
+REMARK MD_STEP  Time=    6.400 ps  Total_E=    -1101.511  Kinetic_E=      593.501  Potential_E=    -1695.012    -1695.012        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    223.895    256.200    196.499     54.662   -406.859   -472.982   -293.839    176.431     24.671   -829.386    -55.432   -465.246   -127.900      0.000      0.000      7.118     17.156      0.000      0.000      0.000
+REMARK MD_STEP  Time=    6.600 ps  Total_E=    -1071.324  Kinetic_E=      600.599  Potential_E=    -1671.923    -1671.923        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    225.004    280.075    180.301     51.241   -390.873   -471.368   -294.750    177.236     41.314   -833.665    -77.698   -462.628   -123.790      0.000      0.000      7.902     19.777      0.000      0.000      0.000
+REMARK Perturbing pocket residues:    2    3    4   25   27
+REMARK pertSC o   1  0    -1671.923    -1671.923      0.000    100.00
+REMARK Perturbing pocket residues:    3   26   27   28   40
+REMARK pertSC o   2  1    -1671.923    -1673.742     -1.818    100.00
+REMARK Perturbing pocket residues:    2    3    4   28   56
+REMARK pertSC o   3  2    -1673.742    -1673.742      0.000    100.00
+REMARK MD_STEP  Time=    6.800 ps  Total_E=    -1099.148  Kinetic_E=      586.644  Potential_E=    -1685.791    -1685.791        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    205.898    271.041    179.749     61.847   -390.377   -462.013   -302.263    179.647     46.120   -841.096    -60.492   -465.011   -131.748      0.000      0.000      7.008     15.898      0.000      0.000      0.000
+REMARK MD_STEP  Time=    7.000 ps  Total_E=    -1046.661  Kinetic_E=      609.089  Potential_E=    -1655.750    -1655.750        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    209.711    292.404    188.252     62.667   -401.473   -465.960   -304.923    178.656     36.143   -831.959    -55.392   -465.791   -127.836      0.000      0.000      8.365     21.385      0.000      0.000      0.000
+REMARK MD_STEP  Time=    7.200 ps  Total_E=    -1085.559  Kinetic_E=      602.444  Potential_E=    -1688.003    -1688.003        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    217.749    283.787    191.954     58.622   -414.185   -474.036   -295.617    175.459     54.783   -834.847    -72.421   -471.326   -136.653      0.000      0.000      8.382     20.347      0.000      0.000      0.000
+REMARK    6th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:    2    3    4   28   56
+REMARK pertSC o   1  0    -1674.307    -1680.191     -5.883    100.00
+REMARK Perturbing pocket residues:    3   24   25   26   42
+REMARK pertSC o   2  1    -1680.191    -1682.994     -2.804    100.00
+REMARK Perturbing pocket residues:   14   15   16   17
+REMARK pertSC o   3  2    -1682.994    -1686.273     -3.279    100.00
+REMARK MD_STEP  Time=    7.400 ps  Total_E=    -1096.284  Kinetic_E=      585.500  Potential_E=    -1681.784    -1681.784        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    219.070    288.127    183.925     61.525   -388.601   -475.752   -292.969    174.851     34.767   -841.188    -66.330   -466.635   -139.723      0.000      0.000      8.769     18.382      0.000      0.000      0.000
+REMARK MD_STEP  Time=    7.600 ps  Total_E=    -1071.892  Kinetic_E=      598.445  Potential_E=    -1670.336    -1670.336        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    218.388    297.909    188.795     55.042   -401.751   -487.040   -279.653    172.845     33.846   -831.936    -60.421   -468.212   -132.549      0.000      0.000      7.115     17.287      0.000      0.000      0.000
+REMARK MD_STEP  Time=    7.800 ps  Total_E=    -1074.943  Kinetic_E=      577.330  Potential_E=    -1652.274    -1652.274        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    226.289    282.548    183.116     55.891   -397.691   -502.313   -267.897    171.645     42.363   -830.894    -49.000   -468.401   -123.606      0.000      0.000      7.072     18.605      0.000      0.000      0.000
+REMARK Perturbing pocket residues:    7    8    9   21   22
+REMARK pertSC o   1  0    -1652.274    -1661.228     -8.954    100.00
+REMARK Perturbing pocket residues:   29   30   32   37   38
+REMARK pertSC o   2  1    -1661.228    -1672.377    -11.150    100.00
+REMARK Perturbing pocket residues:    8    9   53   59   60
+REMARK pertSC o   3  2    -1672.377    -1673.249     -0.871    100.00
+REMARK MD_STEP  Time=    8.000 ps  Total_E=    -1077.393  Kinetic_E=      602.681  Potential_E=    -1680.075    -1680.075        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    210.225    288.517    189.465     64.224   -392.934   -480.483   -288.405    174.871     34.262   -833.520    -66.239   -468.992   -136.971      0.000      0.000      6.852     19.053      0.000      0.000      0.000
+REMARK MD_STEP  Time=    8.200 ps  Total_E=    -1064.519  Kinetic_E=      601.426  Potential_E=    -1665.945    -1665.945        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    236.293    265.925    191.525     59.219   -385.420   -483.045   -284.216    172.932     26.269   -837.655    -57.305   -466.415   -131.108      0.000      0.000      7.049     20.008      0.000      0.000      0.000
+REMARK MD_STEP  Time=    8.400 ps  Total_E=    -1074.913  Kinetic_E=      611.193  Potential_E=    -1686.105    -1686.105        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    223.606    283.132    189.471     57.797   -408.481   -478.942   -289.835    173.643     35.873   -830.940    -58.026   -467.773   -140.538      0.000      0.000      7.448     17.458      0.000      0.000      0.000
+REMARK    7th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   29   30   31   32   38
+REMARK pertSC o   1  0    -1678.931    -1683.731     -4.800    100.00
+REMARK Perturbing pocket residues:   10   11   18   19   20
+REMARK pertSC o   2  1    -1683.731    -1686.722     -2.991    100.00
+REMARK Perturbing pocket residues:    9   10   11   20   53
+REMARK pertSC o   3  2    -1686.722    -1686.722      0.000    100.00
+REMARK MD_STEP  Time=    8.600 ps  Total_E=    -1086.610  Kinetic_E=      593.944  Potential_E=    -1680.553    -1680.553        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    233.191    277.152    177.036     48.729   -393.262   -472.405   -299.258    176.526     45.165   -828.484    -65.766   -472.501   -138.555      0.000      0.000      8.614     23.265      0.000      0.000      0.000
+REMARK MD_STEP  Time=    8.800 ps  Total_E=    -1087.162  Kinetic_E=      592.832  Potential_E=    -1679.994    -1679.994        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    211.955    298.285    178.176     57.956   -393.873   -471.590   -301.104    175.707     36.929   -835.224    -57.338   -472.059   -135.660      0.000      0.000      7.955     19.892      0.000      0.000      0.000
+REMARK MD_STEP  Time=    9.000 ps  Total_E=    -1064.367  Kinetic_E=      590.267  Potential_E=    -1654.634    -1654.634        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    233.132    281.490    175.325     61.947   -384.524   -458.958   -310.855    176.458     34.089   -831.576    -55.461   -465.718   -133.337      0.000      0.000      6.733     16.620      0.000      0.000      0.000
+REMARK Perturbing pocket residues:   29   30   31   32   38
+REMARK pertSC o   1  0    -1654.634    -1659.555     -4.922    100.00
+REMARK Perturbing pocket residues:    9   10   11   17   19
+REMARK pertSC o   2  1    -1659.555    -1661.472     -1.917    100.00
+REMARK Perturbing pocket residues:    7    8   53   54   55
+REMARK pertSC o   3  2    -1661.472    -1661.472      0.000    100.00
+REMARK MD_STEP  Time=    9.200 ps  Total_E=    -1080.283  Kinetic_E=      581.282  Potential_E=    -1661.565    -1661.565        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    242.094    283.614    187.885     52.354   -396.323   -474.871   -298.373    177.346     40.261   -839.945    -60.999   -463.034   -139.663      0.000      0.000      8.302     19.788      0.000      0.000      0.000
+REMARK MD_STEP  Time=    9.400 ps  Total_E=    -1118.314  Kinetic_E=      581.906  Potential_E=    -1700.220    -1700.220        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    222.037    279.661    176.358     68.545   -391.528   -480.866   -294.530    176.217     26.431   -833.342    -78.889   -463.426   -135.806      0.000      0.000      8.335     20.582      0.000      0.000      0.000
+REMARK MD_STEP  Time=    9.600 ps  Total_E=    -1061.514  Kinetic_E=      602.937  Potential_E=    -1664.451    -1664.451        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    240.100    265.619    191.033     69.059   -401.788   -476.992   -291.332    176.651     28.262   -839.232    -59.324   -465.749   -131.913      0.000      0.000      9.027     22.129      0.000      0.000      0.000
+REMARK    8th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   20   21   24   25   42
+REMARK pertSC o   1  0    -1659.741    -1663.233     -3.493    100.00
+REMARK Perturbing pocket residues:   20   21   24   25   42
+REMARK pertSC o   2  1    -1663.233    -1663.233      0.000    100.00
+REMARK Perturbing pocket residues:   16   17   36   48   49
+REMARK pertSC o   3  2    -1663.233    -1664.528     -1.294    100.00
+REMARK MD_STEP  Time=    9.800 ps  Total_E=    -1077.274  Kinetic_E=      587.501  Potential_E=    -1664.775    -1664.775        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    223.946    284.778    187.424     64.390   -404.850   -467.608   -301.542    177.372     30.041   -833.985    -52.972   -465.566   -129.709      0.000      0.000      6.813     16.693      0.000      0.000      0.000
+REMARK MD_STEP  Time=   10.000 ps  Total_E=    -1044.930  Kinetic_E=      605.580  Potential_E=    -1650.510    -1650.510        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    243.175    279.559    183.336     62.914   -394.262   -462.592   -309.595    177.097     32.663   -837.498    -47.756   -469.716   -136.106      0.000      0.000      8.391     19.880      0.000      0.000      0.000
+REMARK MD_STEP  Time=   10.200 ps  Total_E=    -1125.869  Kinetic_E=      605.151  Potential_E=    -1731.020    -1731.020        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    213.093    269.510    180.159     52.704   -393.247   -478.353   -291.883    175.276      6.939   -829.521    -56.367   -467.326   -135.898      0.000      0.000      6.835     17.059      0.000      0.000      0.000
+REMARK Perturbing pocket residues:   17   18   19   20   49
+REMARK pertSC o   1  0    -1731.020    -1731.020      0.000    100.00
+REMARK Perturbing pocket residues:   31   33   34   35   51
+REMARK pertSC o   2  1    -1731.020    -1735.887     -4.867    100.00
+REMARK Perturbing pocket residues:   20   41   42   43   45
+REMARK pertSC o   3  2    -1735.887    -1739.309     -3.423    100.00
+REMARK MD_STEP  Time=   10.400 ps  Total_E=    -1098.219  Kinetic_E=      578.333  Potential_E=    -1676.552    -1676.552        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    247.001    276.561    191.673     51.846   -385.828   -470.760   -297.771    175.404     23.998   -838.869    -77.118   -468.531   -131.512      0.000      0.000      7.953     19.403      0.000      0.000      0.000
+REMARK MD_STEP  Time=   10.600 ps  Total_E=    -1090.727  Kinetic_E=      584.553  Potential_E=    -1675.280    -1675.280        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    233.819    291.093    183.395     51.661   -392.716   -480.662   -292.378    176.521     21.777   -835.895    -57.616   -467.386   -138.421      0.000      0.000      8.850     22.678      0.000      0.000      0.000
+REMARK MD_STEP  Time=   10.800 ps  Total_E=    -1067.828  Kinetic_E=      588.770  Potential_E=    -1656.598    -1656.598        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    233.246    295.061    194.637     58.029   -403.732   -473.302   -296.723    176.923     27.173   -838.071    -58.214   -468.980   -134.286      0.000      0.000      8.385     23.256      0.000      0.000      0.000
+REMARK    9th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   27   29   40   41   46
+REMARK pertSC o   1  0    -1652.717    -1655.072     -2.355    100.00
+REMARK Perturbing pocket residues:    4   25   26   41   49
+REMARK pertSC o   2  1    -1655.072    -1656.545     -1.473    100.00
+REMARK Perturbing pocket residues:   13   50   60   62   63
+REMARK pertSC o   3  2    -1656.545    -1658.026     -1.481    100.00
+REMARK MD_STEP  Time=   11.000 ps  Total_E=    -1070.168  Kinetic_E=      590.053  Potential_E=    -1660.222    -1660.222        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    243.788    287.075    184.183     60.232   -391.108   -451.518   -314.330    175.937     15.874   -835.307    -59.316   -465.116   -134.725      0.000      0.000      7.195     16.917      0.000      0.000      0.000
+REMARK MD_STEP  Time=   11.200 ps  Total_E=    -1096.108  Kinetic_E=      584.530  Potential_E=    -1680.638    -1680.638        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    240.786    303.256    177.746     59.515   -388.520   -465.494   -306.514    177.232     -0.788   -831.471    -64.733   -469.128   -136.816      0.000      0.000      7.210     17.083      0.000      0.000      0.000
+REMARK MD_STEP  Time=   11.400 ps  Total_E=    -1068.616  Kinetic_E=      596.791  Potential_E=    -1665.406    -1665.406        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    234.509    303.499    183.019     57.690   -397.498   -450.119   -313.088    176.399      5.881   -831.552    -55.801   -468.495   -137.033      0.000      0.000      8.095     19.087      0.000      0.000      0.000
+REMARK Perturbing pocket residues:    2    3    4   25   27
+REMARK pertSC o   1  0    -1665.406    -1666.111     -0.705    100.00
+REMARK Perturbing pocket residues:    4    5    7   54   55
+REMARK pertSC o   2  1    -1666.111    -1674.276     -8.165    100.00
+REMARK Perturbing pocket residues:    8   52   53   59   60
+REMARK pertSC o   3  2    -1674.276    -1675.334     -1.058    100.00
+REMARK MD_STEP  Time=   11.600 ps  Total_E=    -1108.963  Kinetic_E=      612.288  Potential_E=    -1721.251    -1721.251        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    233.130    270.018    184.087     58.701   -403.049   -459.565   -310.265    177.049     10.650   -837.499    -66.471   -470.302   -136.519      0.000      0.000      8.524     20.260      0.000      0.000      0.000
+REMARK MD_STEP  Time=   11.800 ps  Total_E=    -1119.932  Kinetic_E=      588.420  Potential_E=    -1708.352    -1708.352        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    238.314    288.054    182.008     61.465   -406.237   -465.203   -303.389    179.051     -6.259   -837.254    -63.666   -468.206   -136.009      0.000      0.000      8.537     20.441      0.000      0.000      0.000
+REMARK MD_STEP  Time=   12.000 ps  Total_E=    -1089.266  Kinetic_E=      600.507  Potential_E=    -1689.773    -1689.773        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    236.815    276.868    179.307     53.775   -386.823   -477.052   -293.412    177.772     12.643   -838.559    -53.639   -468.262   -136.013      0.000      0.000      7.206     19.600      0.000      0.000      0.000
+REMARK   10th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:    9   10   11   17   19
+REMARK pertSC o   1  0    -1688.193    -1688.714     -0.521    100.00
+REMARK Perturbing pocket residues:   20   21   24   25   42
+REMARK pertSC o   2  1    -1688.714    -1690.996     -2.282    100.00
+REMARK Perturbing pocket residues:   13   14   15   16   17
+REMARK pertSC o   3  2    -1690.996    -1701.127    -10.132    100.00
+REMARK MD_STEP  Time=   12.200 ps  Total_E=    -1088.111  Kinetic_E=      600.091  Potential_E=    -1688.202    -1688.202        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    244.727    295.118    181.631     56.182   -410.895   -469.750   -299.041    178.939      1.340   -830.002    -65.284   -462.187   -134.629      0.000      0.000      7.236     18.416      0.000      0.000      0.000
+REMARK MD_STEP  Time=   12.400 ps  Total_E=    -1088.315  Kinetic_E=      609.196  Potential_E=    -1697.511    -1697.511        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    224.842    269.756    183.390     63.601   -375.508   -460.360   -310.630    178.622      4.519   -834.290    -61.105   -463.241   -137.675      0.000      0.000      5.711     14.857      0.000      0.000      0.000
+REMARK MD_STEP  Time=   12.600 ps  Total_E=    -1110.530  Kinetic_E=      601.751  Potential_E=    -1712.281    -1712.281        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    243.970    267.080    184.455     62.053   -408.505   -460.989   -306.550    180.270      4.068   -842.330    -60.991   -458.896   -136.653      0.000      0.000      5.489     15.248      0.000      0.000      0.000
+REMARK Perturbing pocket residues:   32   33   34   35   36
+REMARK pertSC o   1  0    -1712.281    -1713.668     -1.387    100.00
+REMARK Perturbing pocket residues:   24   25   41   42   43
+REMARK pertSC o   2  1    -1713.668    -1716.638     -2.970    100.00
+REMARK Perturbing pocket residues:    4    5   26   54   56
+REMARK pertSC o   3  2    -1716.638    -1721.330     -4.692    100.00
+REMARK MD_STEP  Time=   12.800 ps  Total_E=    -1060.878  Kinetic_E=      591.355  Potential_E=    -1652.232    -1652.232        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    241.169    309.036    186.843     55.975   -380.342   -452.024   -317.632    176.933      1.520   -843.516    -59.358   -456.267   -134.370      0.000      0.000      5.369     14.433      0.000      0.000      0.000
+REMARK MD_STEP  Time=   13.000 ps  Total_E=    -1061.117  Kinetic_E=      612.057  Potential_E=    -1673.174    -1673.174        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    247.066    303.132    183.388     57.666   -399.304   -447.574   -318.934    177.381      9.018   -838.610    -72.061   -462.546   -135.760      0.000      0.000      6.724     17.238      0.000      0.000      0.000
+REMARK MD_STEP  Time=   13.200 ps  Total_E=    -1098.615  Kinetic_E=      606.241  Potential_E=    -1704.856    -1704.856        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    229.329    286.084    195.248     61.486   -399.067   -467.228   -304.167    177.569     -2.346   -835.383    -66.858   -466.852   -135.366      0.000      0.000      6.508     16.187      0.000      0.000      0.000
+REMARK   11th pertMD step with T= 300.0
+REMARK Perturbing pocket residues:   14   15   16   17   48
+REMARK pertSC o   1  0    -1705.116    -1707.936     -2.820    100.00
+REMARK Perturbing pocket residues:    9   20   21   22   24
+REMARK pertSC o   2  1    -1707.936    -1712.172     -4.236    100.00
+REMARK Perturbing pocket residues:   41   42   43   45
+REMARK pertSC o   3  2    -1712.172    -1716.408     -4.236    100.00
+REMARK MD_STEP  Time=   13.400 ps  Total_E=    -1097.743  Kinetic_E=      593.360  Potential_E=    -1691.102    -1691.102        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    254.351    298.480    186.212     62.229   -405.716   -454.682   -316.680    176.940    -16.514   -837.846    -55.678   -465.890   -140.616      0.000      0.000      7.545     16.763      0.000      0.000      0.000
+REMARK MD_STEP  Time=   13.600 ps  Total_E=    -1078.904  Kinetic_E=      593.822  Potential_E=    -1672.725    -1672.725        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    260.582    268.778    195.442     67.114   -388.878   -453.083   -319.993    176.796    -14.324   -835.943    -59.785   -462.962   -137.775      0.000      0.000      9.480     21.824      0.000      0.000      0.000
+REMARK MD_STEP  Time=   13.800 ps  Total_E=    -1111.018  Kinetic_E=      622.860  Potential_E=    -1733.878    -1733.878        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    227.732    283.501    183.803     67.339   -398.348   -448.479   -324.585    177.506    -19.953   -836.659    -61.457   -472.131   -141.893      0.000      0.000      8.523     21.222      0.000      0.000      0.000
+REMARK Perturbing pocket residues:   10   11   18   19   20
+REMARK pertSC o   1  0    -1733.878    -1734.107     -0.229    100.00
+REMARK Perturbing pocket residues:   17   18   19   20   49
+REMARK pertSC o   2  1    -1734.107    -1734.458     -0.351    100.00
+REMARK Perturbing pocket residues:    8   10   50   53   54
+REMARK pertSC o   3  2    -1734.458    -1734.845     -0.388    100.00
+REMARK MD_STEP  Time=   14.000 ps  Total_E=    -1096.998  Kinetic_E=      602.484  Potential_E=    -1699.481    -1699.481        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    245.813    282.240    190.293     53.920   -391.088   -458.541   -321.196    178.922      1.033   -836.933    -68.290   -470.159   -133.223      0.000      0.000      8.183     19.545      0.000      0.000      0.000
+REMARK MD_STEP  Time=   14.200 ps  Total_E=    -1107.490  Kinetic_E=      615.455  Potential_E=    -1722.945    -1722.945        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    236.388    272.966    183.483     66.322   -398.536   -449.892   -322.753    180.275     -4.705   -840.675    -59.009   -469.103   -143.037      0.000      0.000      7.179     18.153      0.000      0.000      0.000
+REMARK MD_STEP  Time=   14.400 ps  Total_E=    -1118.894  Kinetic_E=      572.831  Potential_E=    -1691.725    -1691.725        0.000        0.000
+REMARK MD_STEP  ENERGY.2.0    254.001    282.087    195.184     64.060   -409.919   -458.733   -312.916    177.512     -8.782   -832.475    -53.032   -470.235   -141.882      0.000      0.000      6.512     16.892      0.000      0.000      0.000
+ATOM      1  N   ALA A   1      96.313 143.100  17.241
+ATOM      2  H1  ALA A   1      96.792 143.992  17.471
+ATOM      3  H2  ALA A   1      95.854 143.178  16.314
+ATOM      4  H3  ALA A   1      95.603 142.896  17.968
+ATOM      5  CA  ALA A   1      97.307 142.012  17.217
+ATOM      6  CB  ALA A   1      97.991 141.934  15.838
+ATOM      7  C   ALA A   1      98.357 142.238  18.256
+ATOM      8  O   ALA A   1      98.606 143.368  18.683
+ATOM      9  N   GLU A   2      98.954 141.115  18.710
+ATOM     10  H   GLU A   2      98.699 140.217  18.363
+ATOM     11  CA  GLU A   2     100.002 141.128  19.696
+ATOM     12  CB  GLU A   2     100.237 139.753  20.349
+ATOM     13  CG  GLU A   2      99.068 139.232  21.202
+ATOM     14  CD  GLU A   2      99.386 137.891  21.879
+ATOM     15  OE1 GLU A   2      98.505 137.435  22.654
+ATOM     16  OE2 GLU A   2     100.473 137.290  21.666
+ATOM     17  C   GLU A   2     101.288 141.589  19.065
+ATOM     18  O   GLU A   2     101.647 141.158  17.966
+ATOM     19  N   TYR A   3     101.971 142.533  19.748
+ATOM     20  H   TYR A   3     101.640 142.888  20.619
+ATOM     21  CA  TYR A   3     103.228 143.074  19.306
+ATOM     22  CB  TYR A   3     103.313 144.619  19.316
+ATOM     23  CG  TYR A   3     102.432 145.168  18.247
+ATOM     24  CD1 TYR A   3     101.098 145.502  18.509
+ATOM     25  CE1 TYR A   3     100.283 146.008  17.495
+ATOM     26  CZ  TYR A   3     100.800 146.191  16.211
+ATOM     27  OH  TYR A   3      99.975 146.700  15.186
+ATOM     28  HH  TYR A   3      99.104 146.860  15.560
+ATOM     29  CE2 TYR A   3     102.133 145.873  15.944
+ATOM     30  CD2 TYR A   3     102.944 145.366  16.960
+ATOM     31  C   TYR A   3     104.318 142.566  20.189
+ATOM     32  O   TYR A   3     104.182 142.565  21.414
+ATOM     33  N   VAL A   4     105.412 142.073  19.570
+ATOM     34  H   VAL A   4     105.496 142.044  18.581
+ATOM     35  CA  VAL A   4     106.554 141.584  20.288
+ATOM     36  CB  VAL A   4     106.832 140.092  20.184
+ATOM     37  CG1 VAL A   4     105.712 139.358  20.926
+ATOM     38  CG2 VAL A   4     106.957 139.618  18.724
+ATOM     39  C   VAL A   4     107.766 142.373  19.896
+ATOM     40  O   VAL A   4     107.971 142.715  18.730
+ATOM     41  N   ARG A   5     108.564 142.737  20.914
+ATOM     42  H   ARG A   5     108.363 142.471  21.850
+ATOM     43  CA  ARG A   5     109.779 143.474  20.740
+ATOM     44  CB  ARG A   5     110.050 144.469  21.886
+ATOM     45  CG  ARG A   5     111.311 145.316  21.701
+ATOM     46  CD  ARG A   5     111.489 146.413  22.750
+ATOM     47  NE  ARG A   5     112.780 147.104  22.448
+ATOM     48  HE  ARG A   5     112.775 147.869  21.803
+ATOM     49  CZ  ARG A   5     113.964 146.734  23.030
+ATOM     50  NH1 ARG A   5     114.048 145.688  23.909
+ATOM     51 1HH1 ARG A   5     113.229 145.174  24.164
+ATOM     52 2HH1 ARG A   5     114.927 145.443  24.316
+ATOM     53  NH2 ARG A   5     115.092 147.429  22.705
+ATOM     54 1HH2 ARG A   5     115.040 148.200  22.070
+ATOM     55 2HH2 ARG A   5     115.971 147.191  23.117
+ATOM     56  C   ARG A   5     110.892 142.470  20.715
+ATOM     57  O   ARG A   5     110.981 141.600  21.587
+ATOM     58  N   ALA A   6     111.754 142.570  19.679
+ATOM     59  H   ALA A   6     111.622 143.239  18.952
+ATOM     60  CA  ALA A   6     112.880 141.693  19.532
+ATOM     61  CB  ALA A   6     113.505 141.774  18.142
+ATOM     62  C   ALA A   6     113.928 142.077  20.526
+ATOM     63  O   ALA A   6     114.405 143.212  20.537
+ATOM     64  N   LEU A   7     114.282 141.126  21.410
+ATOM     65  H   LEU A   7     113.897 140.207  21.387
+ATOM     66  CA  LEU A   7     115.286 141.363  22.405
+ATOM     67  CB  LEU A   7     115.155 140.485  23.659
+ATOM     68  CG  LEU A   7     113.883 140.678  24.491
+ATOM     69  CD1 LEU A   7     113.848 139.635  25.617
+ATOM     70  CD2 LEU A   7     113.728 142.125  24.999
+ATOM     71  C   LEU A   7     116.642 141.094  21.850
+ATOM     72  O   LEU A   7     117.572 141.856  22.113
+ATOM     73  N   PHE A   8     116.774 140.004  21.060
+ATOM     74  H   PHE A   8     116.007 139.396  20.861
+ATOM     75  CA  PHE A   8     118.048 139.623  20.513
+ATOM     76  CB  PHE A   8     118.492 138.215  20.974
+ATOM     77  CG  PHE A   8     118.650 138.154  22.458
+ATOM     78  CD1 PHE A   8     117.574 137.744  23.257
+ATOM     79  CE1 PHE A   8     117.701 137.677  24.647
+ATOM     80  CZ  PHE A   8     118.915 138.018  25.245
+ATOM     81  CE2 PHE A   8     119.997 138.422  24.458
+ATOM     82  CD2 PHE A   8     119.863 138.488  23.069
+ATOM     83  C   PHE A   8     117.995 139.562  19.019
+ATOM     84  O   PHE A   8     116.931 139.380  18.424
+ATOM     85  N   ASP A   9     119.181 139.763  18.392
+ATOM     86  H   ASP A   9     120.013 139.930  18.915
+ATOM     87  CA  ASP A   9     119.361 139.706  16.963
+ATOM     88  CB  ASP A   9     120.698 140.331  16.496
+ATOM     89  CG  ASP A   9     120.779 140.491  14.974
+ATOM     90  OD1 ASP A   9     120.777 141.666  14.525
+ATOM     91  OD2 ASP A   9     120.881 139.471  14.241
+ATOM     92  C   ASP A   9     119.328 138.246  16.585
+ATOM     93  O   ASP A   9     119.979 137.412  17.219
+ATOM     94  N   PHE A  10     118.549 137.926  15.533
+ATOM     95  H   PHE A  10     118.037 138.627  15.043
+ATOM     96  CA  PHE A  10     118.389 136.582  15.051
+ATOM     97  CB  PHE A  10     117.013 136.025  15.484
+ATOM     98  CG  PHE A  10     116.726 134.614  15.084
+ATOM     99  CD1 PHE A  10     117.358 133.539  15.712
+ATOM    100  CE1 PHE A  10     117.063 132.227  15.339
+ATOM    101  CZ  PHE A  10     116.122 131.980  14.338
+ATOM    102  CE2 PHE A  10     115.476 133.047  13.708
+ATOM    103  CD2 PHE A  10     115.778 134.356  14.085
+ATOM    104  C   PHE A  10     118.472 136.584  13.558
+ATOM    105  O   PHE A  10     117.703 137.288  12.905
+ATOM    106  N   ASN A  11     119.430 135.809  12.996
+ATOM    107  H   ASN A  11     120.063 135.272  13.548
+ATOM    108  CA  ASN A  11     119.582 135.704  11.565
+ATOM    109  CB  ASN A  11     121.049 135.463  11.136
+ATOM    110  CG  ASN A  11     121.173 135.479   9.609
+ATOM    111  OD1 ASN A  11     120.967 136.492   8.941
+ATOM    112  ND2 ASN A  11     121.497 134.292   9.035
+ATOM    113 1HD2 ASN A  11     121.632 134.231   8.046
+ATOM    114 2HD2 ASN A  11     121.569 133.467   9.595
+ATOM    115  C   ASN A  11     118.759 134.541  11.067
+ATOM    116  O   ASN A  11     118.037 134.668  10.078
+ATOM    117  N   GLY A  12     118.840 133.392  11.778
+ATOM    118  H   GLY A  12     119.428 133.314  12.578
+ATOM    119  CA  GLY A  12     118.125 132.199  11.422
+ATOM    120  C   GLY A  12     118.941 131.282  10.568
+ATOM    121  O   GLY A  12     119.899 131.695   9.907
+ATOM    122  N   ASN A  13     118.543 129.990  10.587
+ATOM    123  H   ASN A  13     117.747 129.701  11.116
+ATOM    124  CA  ASN A  13     119.201 128.961   9.828
+ATOM    125  CB  ASN A  13     119.416 127.653  10.627
+ATOM    126  CG  ASN A  13     120.428 127.837  11.762
+ATOM    127  OD1 ASN A  13     121.343 128.662  11.746
+ATOM    128  ND2 ASN A  13     120.250 127.004  12.818
+ATOM    129 1HD2 ASN A  13     120.854 127.062  13.613
+ATOM    130 2HD2 ASN A  13     119.515 126.326  12.798
+ATOM    131  C   ASN A  13     118.338 128.629   8.652
+ATOM    132  O   ASN A  13     118.819 128.603   7.518
+ATOM    133  N   ASP A  14     117.031 128.383   8.913
+ATOM    134  H   ASP A  14     116.672 128.442   9.841
+ATOM    135  CA  ASP A  14     116.049 128.047   7.914
+ATOM    136  CB  ASP A  14     114.720 127.505   8.498
+ATOM    137  CG  ASP A  14     114.816 126.102   9.107
+ATOM    138  OD1 ASP A  14     115.860 125.403   8.992
+ATOM    139  OD2 ASP A  14     113.781 125.694   9.697
+ATOM    140  C   ASP A  14     115.677 129.270   7.122
+ATOM    141  O   ASP A  14     115.795 130.401   7.597
+ATOM    142  N   GLU A  15     115.220 129.054   5.867
+ATOM    143  H   GLU A  15     115.146 128.132   5.496
+ATOM    144  CA  GLU A  15     114.794 130.115   4.982
+ATOM    145  CB  GLU A  15     114.570 129.651   3.533
+ATOM    146  CG  GLU A  15     115.880 129.296   2.814
+ATOM    147  CD  GLU A  15     115.655 128.810   1.380
+ATOM    148  OE1 GLU A  15     114.492 128.705   0.905
+ATOM    149  OE2 GLU A  15     116.690 128.523   0.726
+ATOM    150  C   GLU A  15     113.516 130.733   5.494
+ATOM    151  O   GLU A  15     113.281 131.926   5.303
+ATOM    152  N   GLU A  16     112.672 129.913   6.166
+ATOM    153  H   GLU A  16     112.902 128.952   6.288
+ATOM    154  CA  GLU A  16     111.411 130.303   6.749
+ATOM    155  CB  GLU A  16     110.639 129.108   7.338
+ATOM    156  CG  GLU A  16     110.088 128.125   6.294
+ATOM    157  CD  GLU A  16     109.398 126.919   6.945
+ATOM    158  OE1 GLU A  16     109.367 126.787   8.197
+ATOM    159  OE2 GLU A  16     108.879 126.086   6.159
+ATOM    160  C   GLU A  16     111.611 131.280   7.881
+ATOM    161  O   GLU A  16     110.731 132.100   8.148
+ATOM    162  N   ASP A  17     112.776 131.200   8.573
+ATOM    163  H   ASP A  17     113.485 130.549   8.315
+ATOM    164  CA  ASP A  17     113.127 132.046   9.687
+ATOM    165  CB  ASP A  17     114.488 131.679  10.319
+ATOM    166  CG  ASP A  17     114.456 130.337  11.062
+ATOM    167  OD1 ASP A  17     113.360 129.752  11.275
+ATOM    168  OD2 ASP A  17     115.572 129.863  11.409
+ATOM    169  C   ASP A  17     113.229 133.467   9.215
+ATOM    170  O   ASP A  17     113.756 133.739   8.133
+ATOM    171  N   LEU A  18     112.679 134.398  10.024
+ATOM    172  H   LEU A  18     112.270 134.151  10.898
+ATOM    173  CA  LEU A  18     112.685 135.797   9.702
+ATOM    174  CB  LEU A  18     111.370 136.515  10.102
+ATOM    175  CG  LEU A  18     111.267 138.033   9.830
+ATOM    176  CD1 LEU A  18     111.321 138.342   8.334
+ATOM    177  CD2 LEU A  18     110.003 138.626  10.460
+ATOM    178  C   LEU A  18     113.818 136.466  10.420
+ATOM    179  O   LEU A  18     113.860 136.401  11.650
+ATOM    180  N   PRO A  19     114.763 137.077   9.699
+ATOM    181  CA  PRO A  19     115.862 137.786  10.306
+ATOM    182  CB  PRO A  19     116.831 138.137   9.179
+ATOM    183  CG  PRO A  19     116.476 137.156   8.051
+ATOM    184  CD  PRO A  19     114.984 136.864   8.269
+ATOM    185  C   PRO A  19     115.310 139.010  10.979
+ATOM    186  O   PRO A  19     114.512 139.724  10.366
+ATOM    187  N   PHE A  20     115.727 139.252  12.232
+ATOM    188  H   PHE A  20     116.396 138.661  12.673
+ATOM    189  CA  PHE A  20     115.289 140.400  12.967
+ATOM    190  CB  PHE A  20     113.947 140.237  13.742
+ATOM    191  CG  PHE A  20     113.917 139.099  14.717
+ATOM    192  CD1 PHE A  20     114.298 139.242  16.051
+ATOM    193  CE1 PHE A  20     114.237 138.169  16.942
+ATOM    194  CZ  PHE A  20     113.777 136.930  16.499
+ATOM    195  CE2 PHE A  20     113.379 136.777  15.172
+ATOM    196  CD2 PHE A  20     113.443 137.857  14.295
+ATOM    197  C   PHE A  20     116.366 140.963  13.821
+ATOM    198  O   PHE A  20     117.156 140.241  14.428
+ATOM    199  N   LYS A  21     116.421 142.307  13.812
+ATOM    200  H   LYS A  21     115.748 142.831  13.296
+ATOM    201  CA  LYS A  21     117.356 143.111  14.545
+ATOM    202  CB  LYS A  21     117.561 144.501  13.920
+ATOM    203  CG  LYS A  21     118.213 144.501  12.542
+ATOM    204  CD  LYS A  21     118.307 145.902  11.942
+ATOM    205  CE  LYS A  21     118.920 145.927  10.544
+ATOM    206  NZ  LYS A  21     118.882 147.298  10.004
+ATOM    207  HZ1 LYS A  21     118.812 147.977  10.786
+ATOM    208  HZ2 LYS A  21     119.748 147.483   9.465
+ATOM    209  HZ3 LYS A  21     118.059 147.406   9.381
+ATOM    210  C   LYS A  21     116.849 143.360  15.929
+ATOM    211  O   LYS A  21     115.649 143.272  16.203
+ATOM    212  N   LYS A  22     117.798 143.676  16.838
+ATOM    213  H   LYS A  22     118.758 143.736  16.577
+ATOM    214  CA  LYS A  22     117.516 143.994  18.210
+ATOM    215  CB  LYS A  22     118.818 144.211  19.003
+ATOM    216  CG  LYS A  22     118.681 144.486  20.499
+ATOM    217  CD  LYS A  22     120.048 144.590  21.171
+ATOM    218  CE  LYS A  22     120.009 144.879  22.670
+ATOM    219  NZ  LYS A  22     121.392 144.947  23.179
+ATOM    220  HZ1 LYS A  22     121.388 145.123  24.201
+ATOM    221  HZ2 LYS A  22     121.874 144.049  22.985
+ATOM    222  HZ3 LYS A  22     121.899 145.715  22.700
+ATOM    223  C   LYS A  22     116.711 145.272  18.214
+ATOM    224  O   LYS A  22     117.081 146.261  17.577
+ATOM    225  N   GLY A  23     115.573 145.247  18.933
+ATOM    226  H   GLY A  23     115.300 144.439  19.442
+ATOM    227  CA  GLY A  23     114.682 146.364  19.052
+ATOM    228  C   GLY A  23     113.625 146.425  17.986
+ATOM    229  O   GLY A  23     112.816 147.354  18.026
+ATOM    230  N   ASP A  24     113.588 145.465  17.021
+ATOM    231  H   ASP A  24     114.258 144.726  16.962
+ATOM    232  CA  ASP A  24     112.581 145.481  15.982
+ATOM    233  CB  ASP A  24     112.826 144.539  14.780
+ATOM    234  CG  ASP A  24     113.912 145.042  13.830
+ATOM    235  OD1 ASP A  24     114.397 146.198  13.958
+ATOM    236  OD2 ASP A  24     114.265 144.247  12.919
+ATOM    237  C   ASP A  24     111.229 145.124  16.516
+ATOM    238  O   ASP A  24     111.092 144.252  17.376
+ATOM    239  N   ILE A  25     110.209 145.859  16.019
+ATOM    240  H   ILE A  25     110.373 146.555  15.324
+ATOM    241  CA  ILE A  25     108.828 145.676  16.381
+ATOM    242  CB  ILE A  25     108.018 146.950  16.239
+ATOM    243  CG2 ILE A  25     106.540 146.663  16.590
+ATOM    244  CG1 ILE A  25     108.609 148.049  17.146
+ATOM    245  CD1 ILE A  25     108.034 149.445  16.915
+ATOM    246  C   ILE A  25     108.325 144.635  15.415
+ATOM    247  O   ILE A  25     108.383 144.812  14.196
+ATOM    248  N   LEU A  26     107.827 143.518  15.974
+ATOM    249  H   LEU A  26     107.798 143.391  16.960
+ATOM    250  CA  LEU A  26     107.326 142.409  15.215
+ATOM    251  CB  LEU A  26     108.089 141.128  15.611
+ATOM    252  CG  LEU A  26     109.622 141.244  15.407
+ATOM    253  CD1 LEU A  26     110.377 140.095  16.070
+ATOM    254  CD2 LEU A  26     110.000 141.393  13.924
+ATOM    255  C   LEU A  26     105.867 142.274  15.553
+ATOM    256  O   LEU A  26     105.485 142.271  16.722
+ATOM    257  N   ARG A  27     105.007 142.206  14.520
+ATOM    258  H   ARG A  27     105.326 142.222  13.578
+ATOM    259  CA  ARG A  27     103.582 142.078  14.687
+ATOM    260  CB  ARG A  27     102.848 142.935  13.636
+ATOM    261  CG  ARG A  27     101.321 142.944  13.685
+ATOM    262  CD  ARG A  27     100.734 143.988  12.732
+ATOM    263  NE  ARG A  27      99.246 143.909  12.810
+ATOM    264  HE  ARG A  27      98.783 144.375  13.565
+ATOM    265  CZ  ARG A  27      98.496 143.227  11.889
+ATOM    266  NH1 ARG A  27      99.048 142.626  10.791
+ATOM    267 1HH1 ARG A  27     100.030 142.691  10.604
+ATOM    268 2HH1 ARG A  27      98.462 142.153  10.132
+ATOM    269  NH2 ARG A  27      97.146 143.161  12.082
+ATOM    270 1HH2 ARG A  27      96.730 143.604  12.875
+ATOM    271 2HH2 ARG A  27      96.566 142.672  11.431
+ATOM    272  C   ARG A  27     103.253 140.627  14.492
+ATOM    273  O   ARG A  27     103.517 140.085  13.422
+ATOM    274  N   ILE A  28     102.655 139.966  15.514
+ATOM    275  H   ILE A  28     102.417 140.422  16.366
+ATOM    276  CA  ILE A  28     102.320 138.561  15.419
+ATOM    277  CB  ILE A  28     102.003 137.919  16.759
+ATOM    278  CG2 ILE A  28     101.570 136.444  16.561
+ATOM    279  CG1 ILE A  28     103.236 137.993  17.674
+ATOM    280  CD1 ILE A  28     102.925 137.594  19.113
+ATOM    281  C   ILE A  28     101.141 138.425  14.495
+ATOM    282  O   ILE A  28     100.071 138.999  14.721
+ATOM    283  N   ARG A  29     101.366 137.661  13.408
+ATOM    284  H   ARG A  29     102.238 137.200  13.262
+ATOM    285  CA  ARG A  29     100.361 137.407  12.423
+ATOM    286  CB  ARG A  29     100.992 137.226  11.030
+ATOM    287  CG  ARG A  29      99.999 137.007   9.893
+ATOM    288  CD  ARG A  29     100.685 136.813   8.546
+ATOM    289  NE  ARG A  29      99.633 136.488   7.539
+ATOM    290  HE  ARG A  29      99.410 135.527   7.378
+ATOM    291  CZ  ARG A  29      98.944 137.455   6.852
+ATOM    292  NH1 ARG A  29      99.178 138.790   7.023
+ATOM    293 1HH1 ARG A  29      99.835 139.110   7.705
+ATOM    294 2HH1 ARG A  29      98.651 139.462   6.503
+ATOM    295  NH2 ARG A  29      97.989 137.071   5.959
+ATOM    296 1HH2 ARG A  29      97.784 136.103   5.824
+ATOM    297 2HH2 ARG A  29      97.478 137.758   5.444
+ATOM    298  C   ARG A  29      99.621 136.156  12.811
+ATOM    299  O   ARG A  29      98.390 136.156  12.853
+ATOM    300  N   ASP A  30     100.371 135.076  13.136
+ATOM    301  H   ASP A  30     101.369 135.114  13.141
+ATOM    302  CA  ASP A  30      99.794 133.806  13.502
+ATOM    303  CB  ASP A  30      99.586 132.884  12.265
+ATOM    304  CG  ASP A  30      98.535 131.779  12.464
+ATOM    305  OD1 ASP A  30      97.842 131.725  13.515
+ATOM    306  OD2 ASP A  30      98.423 130.945  11.529
+ATOM    307  C   ASP A  30     100.730 133.097  14.441
+ATOM    308  O   ASP A  30     101.899 133.464  14.571
+ATOM    309  N   LYS A  31     100.219 132.053  15.135
+ATOM    310  H   LYS A  31      99.270 131.765  15.035
+ATOM    311  CA  LYS A  31     101.010 131.266  16.039
+ATOM    312  CB  LYS A  31     100.580 131.384  17.522
+ATOM    313  CG  LYS A  31     100.734 132.790  18.099
+ATOM    314  CD  LYS A  31     100.487 132.874  19.601
+ATOM    315  CE  LYS A  31     100.657 134.290  20.143
+ATOM    316  NZ  LYS A  31     100.453 134.301  21.604
+ATOM    317  HZ1 LYS A  31     100.793 133.411  22.015
+ATOM    318  HZ2 LYS A  31     100.985 135.087  22.022
+ATOM    319  HZ3 LYS A  31      99.442 134.420  21.811
+ATOM    320  C   LYS A  31     100.861 129.834  15.572
+ATOM    321  O   LYS A  31     100.011 129.104  16.094
+ATOM    322  N   PRO A  32     101.627 129.396  14.560
+ATOM    323  CA  PRO A  32     101.567 128.042  14.049
+ATOM    324  CB  PRO A  32     102.420 128.033  12.779
+ATOM    325  CG  PRO A  32     103.383 129.223  12.936
+ATOM    326  CD  PRO A  32     102.648 130.190  13.875
+ATOM    327  C   PRO A  32     102.032 127.037  15.064
+ATOM    328  O   PRO A  32     101.482 125.936  15.093
+ATOM    329  N   GLU A  33     103.035 127.406  15.890
+ATOM    330  H   GLU A  33     103.512 128.276  15.771
+ATOM    331  CA  GLU A  33     103.387 126.708  17.092
+ATOM    332  CB  GLU A  33     104.716 125.924  17.009
+ATOM    333  CG  GLU A  33     104.719 124.754  16.014
+ATOM    334  CD  GLU A  33     106.043 123.985  16.023
+ATOM    335  OE1 GLU A  33     107.000 124.342  16.763
+ATOM    336  OE2 GLU A  33     106.101 122.986  15.260
+ATOM    337  C   GLU A  33     103.573 127.761  18.143
+ATOM    338  O   GLU A  33     103.654 128.956  17.848
+ATOM    339  N   GLU A  34     103.590 127.340  19.424
+ATOM    340  H   GLU A  34     103.488 126.381  19.673
+ATOM    341  CA  GLU A  34     103.792 128.266  20.504
+ATOM    342  CB  GLU A  34     103.361 127.731  21.881
+ATOM    343  CG  GLU A  34     101.836 127.591  22.037
+ATOM    344  CD  GLU A  34     101.124 128.933  21.820
+ATOM    345  OE1 GLU A  34     101.478 129.940  22.491
+ATOM    346  OE2 GLU A  34     100.205 128.965  20.961
+ATOM    347  C   GLU A  34     105.222 128.718  20.556
+ATOM    348  O   GLU A  34     105.484 129.867  20.903
+ATOM    349  N   GLN A  35     106.175 127.819  20.214
+ATOM    350  H   GLN A  35     105.935 126.894  19.931
+ATOM    351  CA  GLN A  35     107.584 128.126  20.218
+ATOM    352  CB  GLN A  35     108.472 126.871  20.215
+ATOM    353  CG  GLN A  35     108.382 126.107  21.540
+ATOM    354  CD  GLN A  35     109.304 124.896  21.533
+ATOM    355  OE1 GLN A  35     109.181 123.948  20.758
+ATOM    356  NE2 GLN A  35     110.277 124.927  22.478
+ATOM    357 1HE2 GLN A  35     110.889 124.145  22.599
+ATOM    358 2HE2 GLN A  35     110.365 125.731  23.065
+ATOM    359  C   GLN A  35     107.998 129.005  19.067
+ATOM    360  O   GLN A  35     108.884 129.848  19.231
+ATOM    361  N   TRP A  36     107.383 128.808  17.875
+ATOM    362  H   TRP A  36     106.663 128.130  17.757
+ATOM    363  CA  TRP A  36     107.705 129.586  16.708
+ATOM    364  CB  TRP A  36     108.228 128.725  15.540
+ATOM    365  CG  TRP A  36     109.571 128.068  15.783
+ATOM    366  CD1 TRP A  36     109.831 126.878  16.403
+ATOM    367  NE1 TRP A  36     111.182 126.620  16.398
+ATOM    368  HE1 TRP A  36     111.614 125.840  16.797
+ATOM    369  CE2 TRP A  36     111.823 127.649  15.751
+ATOM    370  CZ2 TRP A  36     113.167 127.858  15.470
+ATOM    371  CH2 TRP A  36     113.524 129.024  14.783
+ATOM    372  CZ3 TRP A  36     112.548 129.949  14.388
+ATOM    373  CE3 TRP A  36     111.192 129.736  14.666
+ATOM    374  CD2 TRP A  36     110.842 128.581  15.352
+ATOM    375  C   TRP A  36     106.452 130.277  16.258
+ATOM    376  O   TRP A  36     105.461 129.633  15.909
+ATOM    377  N   TRP A  37     106.491 131.627  16.274
+ATOM    378  H   TRP A  37     107.320 132.121  16.527
+ATOM    379  CA  TRP A  37     105.396 132.478  15.892
+ATOM    380  CB  TRP A  37     105.234 133.656  16.871
+ATOM    381  CG  TRP A  37     104.794 133.270  18.268
+ATOM    382  CD1 TRP A  37     104.167 132.133  18.691
+ATOM    383  NE1 TRP A  37     103.906 132.197  20.038
+ATOM    384  HE1 TRP A  37     103.457 131.503  20.558
+ATOM    385  CE2 TRP A  37     104.409 133.380  20.523
+ATOM    386  CZ2 TRP A  37     104.435 133.905  21.809
+ATOM    387  CH2 TRP A  37     105.047 135.150  21.999
+ATOM    388  CZ3 TRP A  37     105.630 135.831  20.923
+ATOM    389  CE3 TRP A  37     105.612 135.302  19.627
+ATOM    390  CD2 TRP A  37     104.988 134.077  19.439
+ATOM    391  C   TRP A  37     105.635 133.055  14.531
+ATOM    392  O   TRP A  37     106.767 133.385  14.193
+ATOM    393  N   ASN A  38     104.580 133.152  13.693
+ATOM    394  H   ASN A  38     103.658 132.913  13.980
+ATOM    395  CA  ASN A  38     104.706 133.736  12.381
+ATOM    396  CB  ASN A  38     103.693 133.209  11.336
+ATOM    397  CG  ASN A  38     103.885 133.859   9.955
+ATOM    398  OD1 ASN A  38     104.912 134.422   9.573
+ATOM    399  ND2 ASN A  38     102.790 133.790   9.156
+ATOM    400 1HD2 ASN A  38     102.816 134.187   8.239
+ATOM    401 2HD2 ASN A  38     101.967 133.318   9.470
+ATOM    402  C   ASN A  38     104.444 135.193  12.603
+ATOM    403  O   ASN A  38     103.366 135.572  13.073
+ATOM    404  N   ALA A  39     105.440 136.035  12.261
+ATOM    405  H   ALA A  39     106.304 135.733  11.862
+ATOM    406  CA  ALA A  39     105.274 137.441  12.447
+ATOM    407  CB  ALA A  39     105.932 137.982  13.726
+ATOM    408  C   ALA A  39     105.737 138.232  11.273
+ATOM    409  O   ALA A  39     106.550 137.775  10.465
+ATOM    410  N   GLU A  40     105.123 139.431  11.164
+ATOM    411  H   GLU A  40     104.460 139.714  11.849
+ATOM    412  CA  GLU A  40     105.354 140.423  10.158
+ATOM    413  CB  GLU A  40     104.074 141.197   9.783
+ATOM    414  CG  GLU A  40     102.966 140.376   9.118
+ATOM    415  CD  GLU A  40     101.689 141.203   8.927
+ATOM    416  OE1 GLU A  40     101.574 142.361   9.414
+ATOM    417  OE2 GLU A  40     100.783 140.658   8.244
+ATOM    418  C   GLU A  40     106.265 141.461  10.741
+ATOM    419  O   GLU A  40     106.004 141.994  11.821
+ATOM    420  N   ASP A  41     107.376 141.759  10.039
+ATOM    421  H   ASP A  41     107.594 141.320   9.171
+ATOM    422  CA  ASP A  41     108.303 142.769  10.474
+ATOM    423  CB  ASP A  41     109.804 142.456  10.187
+ATOM    424  CG  ASP A  41     110.233 142.407   8.719
+ATOM    425  OD1 ASP A  41     109.489 142.867   7.817
+ATOM    426  OD2 ASP A  41     111.362 141.904   8.485
+ATOM    427  C   ASP A  41     107.874 144.126   9.967
+ATOM    428  O   ASP A  41     106.862 144.255   9.273
+ATOM    429  N   SER A  42     108.648 145.177  10.321
+ATOM    430  H   SER A  42     109.460 145.045  10.884
+ATOM    431  CA  SER A  42     108.407 146.546   9.930
+ATOM    432  CB  SER A  42     109.405 147.512  10.591
+ATOM    433  OG  SER A  42     109.220 147.507  12.000
+ATOM    434  HG  SER A  42     109.900 148.085  12.354
+ATOM    435  C   SER A  42     108.477 146.728   8.430
+ATOM    436  O   SER A  42     107.797 147.600   7.884
+ATOM    437  N   GLU A  43     109.294 145.899   7.732
+ATOM    438  H   GLU A  43     109.817 145.181   8.187
+ATOM    439  CA  GLU A  43     109.453 145.948   6.298
+ATOM    440  CB  GLU A  43     110.735 145.220   5.831
+ATOM    441  CG  GLU A  43     112.073 145.839   6.276
+ATOM    442  CD  GLU A  43     112.280 147.236   5.695
+ATOM    443  OE1 GLU A  43     112.289 147.381   4.445
+ATOM    444  OE2 GLU A  43     112.443 148.185   6.505
+ATOM    445  C   GLU A  43     108.288 145.254   5.618
+ATOM    446  O   GLU A  43     108.075 145.452   4.421
+ATOM    447  N   GLY A  44     107.492 144.452   6.371
+ATOM    448  H   GLY A  44     107.674 144.295   7.339
+ATOM    449  CA  GLY A  44     106.351 143.736   5.857
+ATOM    450  C   GLY A  44     106.653 142.306   5.512
+ATOM    451  O   GLY A  44     105.747 141.576   5.106
+ATOM    452  N   LYS A  45     107.931 141.880   5.664
+ATOM    453  H   LYS A  45     108.636 142.487   6.018
+ATOM    454  CA  LYS A  45     108.375 140.539   5.392
+ATOM    455  CB  LYS A  45     109.909 140.450   5.249
+ATOM    456  CG  LYS A  45     110.466 139.084   4.842
+ATOM    457  CD  LYS A  45     111.981 139.090   4.632
+ATOM    458  CE  LYS A  45     112.560 137.703   4.358
+ATOM    459  NZ  LYS A  45     114.013 137.799   4.131
+ATOM    460  HZ1 LYS A  45     114.460 138.337   4.897
+ATOM    461  HZ2 LYS A  45     114.423 136.846   4.093
+ATOM    462  HZ3 LYS A  45     114.183 138.281   3.228
+ATOM    463  C   LYS A  45     107.888 139.670   6.521
+ATOM    464  O   LYS A  45     107.919 140.060   7.690
+ATOM    465  N   ARG A  46     107.406 138.465   6.159
+ATOM    466  H   ARG A  46     107.392 138.170   5.207
+ATOM    467  CA  ARG A  46     106.857 137.526   7.099
+ATOM    468  CB  ARG A  46     105.502 136.994   6.600
+ATOM    469  CG  ARG A  46     104.485 138.124   6.459
+ATOM    470  CD  ARG A  46     103.130 137.759   5.861
+ATOM    471  NE  ARG A  46     102.273 138.976   6.004
+ATOM    472  HE  ARG A  46     101.641 139.043   6.779
+ATOM    473  CZ  ARG A  46     102.314 140.002   5.096
+ATOM    474  NH1 ARG A  46     103.160 140.001   4.020
+ATOM    475 1HH1 ARG A  46     103.792 139.240   3.868
+ATOM    476 2HH1 ARG A  46     103.200 140.793   3.412
+ATOM    477  NH2 ARG A  46     101.497 141.074   5.304
+ATOM    478 1HH2 ARG A  46     100.911 141.109   6.114
+ATOM    479 2HH2 ARG A  46     101.523 141.853   4.678
+ATOM    480  C   ARG A  46     107.768 136.358   7.296
+ATOM    481  O   ARG A  46     108.426 135.912   6.352
+ATOM    482  N   GLY A  47     107.835 135.857   8.550
+ATOM    483  H   GLY A  47     107.379 136.302   9.321
+ATOM    484  CA  GLY A  47     108.662 134.714   8.826
+ATOM    485  C   GLY A  47     108.503 134.202  10.217
+ATOM    486  O   GLY A  47     107.808 134.786  11.050
+ATOM    487  N   MET A  48     109.185 133.063  10.471
+ATOM    488  H   MET A  48     109.760 132.643   9.774
+ATOM    489  CA  MET A  48     109.161 132.395  11.743
+ATOM    490  CB  MET A  48     109.480 130.897  11.648
+ATOM    491  CG  MET A  48     108.461 130.121  10.814
+ATOM    492  SD  MET A  48     106.778 130.086  11.490
+ATOM    493  CE  MET A  48     106.125 129.209  10.042
+ATOM    494  C   MET A  48     110.127 133.031  12.688
+ATOM    495  O   MET A  48     111.256 133.363  12.327
+ATOM    496  N   ILE A  49     109.577 133.426  13.848
+ATOM    497  H   ILE A  49     108.617 133.273  14.027
+ATOM    498  CA  ILE A  49     110.241 134.084  14.930
+ATOM    499  CB  ILE A  49     109.666 135.475  15.157
+ATOM    500  CG2 ILE A  49     110.160 136.145  16.456
+ATOM    501  CG1 ILE A  49     109.933 136.278  13.872
+ATOM    502  CD1 ILE A  49     109.298 137.641  13.809
+ATOM    503  C   ILE A  49     110.198 133.240  16.176
+ATOM    504  O   ILE A  49     109.118 132.847  16.626
+ATOM    505  N   PRO A  50     111.368 132.890  16.701
+ATOM    506  CA  PRO A  50     111.500 132.121  17.911
+ATOM    507  CB  PRO A  50     112.939 131.625  17.932
+ATOM    508  CG  PRO A  50     113.710 132.614  17.054
+ATOM    509  CD  PRO A  50     112.665 133.182  16.095
+ATOM    510  C   PRO A  50     111.137 132.931  19.124
+ATOM    511  O   PRO A  50     111.549 134.089  19.233
+ATOM    512  N   VAL A  51     110.407 132.299  20.064
+ATOM    513  H   VAL A  51     110.110 131.354  19.937
+ATOM    514  CA  VAL A  51     109.912 132.953  21.251
+ATOM    515  CB  VAL A  51     108.828 132.145  21.949
+ATOM    516  CG1 VAL A  51     108.397 132.718  23.318
+ATOM    517  CG2 VAL A  51     107.649 132.148  20.984
+ATOM    518  C   VAL A  51     110.984 133.407  22.221
+ATOM    519  O   VAL A  51     110.838 134.559  22.634
+ATOM    520  N   PRO A  52     112.056 132.691  22.600
+ATOM    521  CA  PRO A  52     113.038 133.183  23.552
+ATOM    522  CB  PRO A  52     113.979 132.010  23.824
+ATOM    523  CG  PRO A  52     113.833 131.097  22.598
+ATOM    524  CD  PRO A  52     112.384 131.335  22.152
+ATOM    525  C   PRO A  52     113.764 134.439  23.140
+ATOM    526  O   PRO A  52     114.293 135.125  24.014
+ATOM    527  N   TYR A  53     113.804 134.732  21.826
+ATOM    528  H   TYR A  53     113.331 134.159  21.161
+ATOM    529  CA  TYR A  53     114.403 135.907  21.260
+ATOM    530  CB  TYR A  53     114.688 135.686  19.765
+ATOM    531  CG  TYR A  53     115.914 134.853  19.592
+ATOM    532  CD1 TYR A  53     115.876 133.454  19.615
+ATOM    533  CE1 TYR A  53     117.040 132.704  19.430
+ATOM    534  CZ  TYR A  53     118.254 133.360  19.203
+ATOM    535  OH  TYR A  53     119.438 132.620  19.012
+ATOM    536  HH  TYR A  53     120.161 133.236  18.869
+ATOM    537  CE2 TYR A  53     118.299 134.752  19.156
+ATOM    538  CD2 TYR A  53     117.130 135.486  19.343
+ATOM    539  C   TYR A  53     113.558 137.144  21.397
+ATOM    540  O   TYR A  53     114.089 138.252  21.297
+ATOM    541  N   VAL A  54     112.227 136.985  21.615
+ATOM    542  H   VAL A  54     111.810 136.088  21.750
+ATOM    543  CA  VAL A  54     111.321 138.102  21.726
+ATOM    544  CB  VAL A  54     110.311 138.192  20.587
+ATOM    545  CG1 VAL A  54     111.066 138.444  19.275
+ATOM    546  CG2 VAL A  54     109.422 136.932  20.511
+ATOM    547  C   VAL A  54     110.578 138.150  23.035
+ATOM    548  O   VAL A  54     110.411 137.140  23.721
+ATOM    549  N   GLU A  55     110.154 139.378  23.413
+ATOM    550  H   GLU A  55     110.344 140.185  22.856
+ATOM    551  CA  GLU A  55     109.403 139.641  24.616
+ATOM    552  CB  GLU A  55     110.233 140.414  25.660
+ATOM    553  CG  GLU A  55     109.584 140.696  27.020
+ATOM    554  CD  GLU A  55     110.637 141.348  27.911
+ATOM    555  OE1 GLU A  55     111.100 142.472  27.585
+ATOM    556  OE2 GLU A  55     111.005 140.721  28.938
+ATOM    557  C   GLU A  55     108.244 140.501  24.192
+ATOM    558  O   GLU A  55     108.395 141.354  23.320
+ATOM    559  N   LYS A  56     107.051 140.305  24.804
+ATOM    560  H   LYS A  56     106.935 139.622  25.519
+ATOM    561  CA  LYS A  56     105.872 141.073  24.462
+ATOM    562  CB  LYS A  56     104.547 140.541  25.039
+ATOM    563  CG  LYS A  56     104.115 139.205  24.439
+ATOM    564  CD  LYS A  56     102.748 138.739  24.926
+ATOM    565  CE  LYS A  56     102.312 137.409  24.320
+ATOM    566  NZ  LYS A  56     100.950 137.085  24.785
+ATOM    567  HZ1 LYS A  56     100.995 136.639  25.719
+ATOM    568  HZ2 LYS A  56     100.390 137.957  24.849
+ATOM    569  HZ3 LYS A  56     100.490 136.440  24.115
+ATOM    570  C   LYS A  56     105.977 142.531  24.801
+ATOM    571  O   LYS A  56     106.620 142.914  25.781
+ATOM    572  N   TYR A  57     105.353 143.372  23.941
+ATOM    573  H   TYR A  57     104.839 143.024  23.162
+ATOM    574  CA  TYR A  57     105.329 144.802  24.082
+ATOM    575  CB  TYR A  57     104.912 145.531  22.787
+ATOM    576  CG  TYR A  57     106.041 146.337  22.237
+ATOM    577  CD1 TYR A  57     106.619 147.377  22.978
+ATOM    578  CE1 TYR A  57     107.670 148.128  22.451
+ATOM    579  CZ  TYR A  57     108.150 147.849  21.170
+ATOM    580  OH  TYR A  57     109.214 148.606  20.635
+ATOM    581  HH  TYR A  57     109.479 149.252  21.297
+ATOM    582  CE2 TYR A  57     107.574 146.821  20.420
+ATOM    583  CD2 TYR A  57     106.523 146.071  20.951
+ATOM    584  C   TYR A  57     104.275 145.149  25.139
+ATOM    585  O   TYR A  57     103.106 144.694  25.018
+ATOM    586  OXT TYR A  57     104.636 145.883  26.095
+TER
+ATOM    587  N   PRO B  58     124.404 136.718  25.677
+ATOM    588  H2  PRO B  58     123.531 136.596  26.159
+ATOM    589  H3  PRO B  58     124.408 137.643  25.287
+ATOM    590  CA  PRO B  58     124.504 135.699  24.606
+ATOM    591  CB  PRO B  58     125.277 134.529  25.212
+ATOM    592  CG  PRO B  58     126.066 135.103  26.401
+ATOM    593  CD  PRO B  58     125.540 136.530  26.637
+ATOM    594  C   PRO B  58     123.112 135.331  24.179
+ATOM    595  O   PRO B  58     122.263 135.191  25.066
+ATOM    596  N   PRO B  59     122.850 135.153  22.886
+ATOM    597  CA  PRO B  59     121.542 134.799  22.385
+ATOM    598  CB  PRO B  59     121.648 134.869  20.859
+ATOM    599  CG  PRO B  59     122.804 135.842  20.603
+ATOM    600  CD  PRO B  59     123.723 135.628  21.812
+ATOM    601  C   PRO B  59     121.064 133.452  22.878
+ATOM    602  O   PRO B  59     121.910 132.571  23.056
+ATOM    603  N   PRO B  60     119.763 133.272  23.092
+ATOM    604  CA  PRO B  60     119.173 132.042  23.566
+ATOM    605  CB  PRO B  60     117.695 132.333  23.805
+ATOM    606  CG  PRO B  60     117.618 133.855  23.961
+ATOM    607  CD  PRO B  60     118.797 134.366  23.128
+ATOM    608  C   PRO B  60     119.341 130.909  22.604
+ATOM    609  O   PRO B  60     119.530 131.144  21.408
+ATOM    610  N   ALA B  61     119.283 129.667  23.129
+ATOM    611  H   ALA B  61     119.156 129.520  24.107
+ATOM    612  CA  ALA B  61     119.243 128.487  22.310
+ATOM    613  CB  ALA B  61     119.321 127.175  23.106
+ATOM    614  C   ALA B  61     117.972 128.471  21.514
+ATOM    615  O   ALA B  61     116.901 128.847  22.002
+ATOM    616  N   LEU B  62     118.097 128.036  20.243
+ATOM    617  H   LEU B  62     118.977 127.738  19.882
+ATOM    618  CA  LEU B  62     116.996 127.963  19.325
+ATOM    619  CB  LEU B  62     117.427 127.631  17.877
+ATOM    620  CG  LEU B  62     117.725 128.841  16.967
+ATOM    621  CD1 LEU B  62     118.905 129.689  17.470
+ATOM    622  CD2 LEU B  62     117.907 128.393  15.508
+ATOM    623  C   LEU B  62     116.039 126.885  19.763
+ATOM    624  O   LEU B  62     116.481 125.784  20.110
+ATOM    625  N   PRO B  63     114.736 127.177  19.792
+ATOM    626  CA  PRO B  63     113.711 126.228  20.167
+ATOM    627  CB  PRO B  63     112.430 127.056  20.321
+ATOM    628  CG  PRO B  63     112.643 128.266  19.408
+ATOM    629  CD  PRO B  63     114.164 128.476  19.434
+ATOM    630  C   PRO B  63     113.608 125.131  19.125
+ATOM    631  O   PRO B  63     113.993 125.402  17.982
+ATOM    632  N   PRO B  64     113.102 123.940  19.448
+ATOM    633  CA  PRO B  64     112.993 122.840  18.513
+ATOM    634  CB  PRO B  64     112.368 121.693  19.301
+ATOM    635  CG  PRO B  64     112.762 121.980  20.758
+ATOM    636  CD  PRO B  64     112.847 123.508  20.821
+ATOM    637  C   PRO B  64     112.215 123.185  17.281
+ATOM    638  O   PRO B  64     111.186 123.857  17.380
+ATOM    639  N   LYS B  65     112.734 122.739  16.120
+ATOM    640  H   LYS B  65     113.518 122.125  16.104
+ATOM    641  CA  LYS B  65     112.294 123.214  14.840
+ATOM    642  CB  LYS B  65     113.293 122.978  13.687
+ATOM    643  CG  LYS B  65     114.583 123.802  13.772
+ATOM    644  CD  LYS B  65     115.528 123.531  12.599
+ATOM    645  CE  LYS B  65     116.782 124.405  12.557
+ATOM    646  NZ  LYS B  65     117.607 124.010  11.396
+ATOM    647  HZ1 LYS B  65     117.059 124.107  10.518
+ATOM    648  HZ2 LYS B  65     118.457 124.603  11.341
+ATOM    649  HZ3 LYS B  65     117.892 123.019  11.511
+ATOM    650  C   LYS B  65     110.958 122.673  14.440
+ATOM    651  O   LYS B  65     110.500 121.641  14.937
+ATOM    652  N   LYS B  66     110.301 123.428  13.535
+ATOM    653  H   LYS B  66     110.723 124.245  13.156
+ATOM    654  CA  LYS B  66     109.011 123.100  12.999
+ATOM    655  CB  LYS B  66     108.095 124.314  12.680
+ATOM    656  CG  LYS B  66     108.665 125.718  12.929
+ATOM    657  CD  LYS B  66     109.090 126.455  11.658
+ATOM    658  CE  LYS B  66     110.606 126.568  11.457
+ATOM    659  NZ  LYS B  66     111.016 125.779  10.275
+ATOM    660  HZ1 LYS B  66     111.142 124.782  10.543
+ATOM    661  HZ2 LYS B  66     111.912 126.154   9.898
+ATOM    662  HZ3 LYS B  66     110.280 125.847   9.543
+ATOM    663  C   LYS B  66     109.293 122.391  11.674
+ATOM    664  O   LYS B  66     108.827 121.232  11.528
+ATOM    665  OXT LYS B  66     109.981 122.981  10.797
+TER

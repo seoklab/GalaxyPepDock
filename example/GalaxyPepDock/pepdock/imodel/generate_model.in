@@ -1,0 +1,19 @@
+data_directory        /home/mink/git/GalaxyPepDock_src/data
+top_type              polarh
+print_level           30
+energy_print_level    30
+read_multiple_models  yes
+weight_type           Cassiopeia
+sch_type              default
+gen_method            vtfm
+rsr_weight            1.0
+fix_type              all
+perturb_ulr           no
+ULR                   L  T  0.0  58  66
+n_conf_gen            6
+rsr_pdb               1CKA.A.B/GalaxyPepDock_init.complex.pdb
+rsr_file              out_multi_rsr.list
+infile_pdb            out_multi_init.pdb
+outfile_prefix        out
+n_multi_thread        2
+energy_on_full        yes

@@ -1,0 +1,62 @@
+HOME  .
+QUERY GalaxyPepDock_init
+TEMPL GalaxyPepDock_build.pdb
+RESIDUE     1 A  A     1  _    1     1  A
+RESIDUE     2 A  E     2  _    2     2  E
+RESIDUE     3 A  Y     3  _    3     3  Y
+RESIDUE     4 A  V     4  _    4     4  V
+RESIDUE     5 A  R     5  _    5     5  R
+RESIDUE     6 A  A     6  _    6     6  A
+RESIDUE     7 A  L     7  _    7     7  L
+RESIDUE     8 A  F     8  _    8     8  F
+RESIDUE     9 A  D     9  _    9     9  D
+RESIDUE    10 A  F    10  _   10    10  F
+RESIDUE    11 A  N    11  _   11    11  N
+RESIDUE    12 A  G    12  _   12    12  G
+RESIDUE    13 A  N    13  _   13    13  N
+RESIDUE    14 A  D    14  _   14    14  D
+RESIDUE    15 A  E    15  _   15    15  E
+RESIDUE    16 A  E    16  _   16    16  E
+RESIDUE    17 A  D    17  _   17    17  D
+RESIDUE    18 A  L    18  _   18    18  L
+RESIDUE    19 A  P    19  _   19    19  P
+RESIDUE    20 A  F    20  _   20    20  F
+RESIDUE    21 A  K    21  _   21    21  K
+RESIDUE    22 A  K    22  _   22    22  K
+RESIDUE    23 A  G    23  _   23    23  G
+RESIDUE    24 A  D    24  _   24    24  D
+RESIDUE    25 A  I    25  _   25    25  I
+RESIDUE    26 A  L    26  _   26    26  L
+RESIDUE    27 A  R    27  _   27    27  R
+RESIDUE    28 A  I    28  _   28    28  I
+RESIDUE    29 A  R    29  _   29    29  R
+RESIDUE    30 A  D    30  _   30    30  D
+RESIDUE    31 A  K    31  _   31    31  K
+RESIDUE    32 A  P    32  _   32    32  P
+RESIDUE    33 A  E    33  _   33    33  E
+RESIDUE    34 A  E    34  _   34    34  E
+RESIDUE    35 A  Q    35  _   35    35  Q
+RESIDUE    36 A  W    36  _   36    36  W
+RESIDUE    37 A  W    37  _   37    37  W
+RESIDUE    38 A  N    38  _   38    38  N
+RESIDUE    39 A  A    39  _   39    39  A
+RESIDUE    40 A  E    40  _   40    40  E
+RESIDUE    41 A  D    41  _   41    41  D
+RESIDUE    42 A  S    42  _   42    42  S
+RESIDUE    43 A  E    43  _   43    43  E
+RESIDUE    44 A  G    44  _   44    44  G
+RESIDUE    45 A  K    45  _   45    45  K
+RESIDUE    46 A  R    46  _   46    46  R
+RESIDUE    47 A  G    47  _   47    47  G
+RESIDUE    48 A  M    48  _   48    48  M
+RESIDUE    49 A  I    49  _   49    49  I
+RESIDUE    50 A  P    50  _   50    50  P
+RESIDUE    51 A  V    51  _   51    51  V
+RESIDUE    52 A  P    52  _   52    52  P
+RESIDUE    53 A  Y    53  _   53    53  Y
+RESIDUE    54 A  V    54  _   54    54  V
+RESIDUE    55 A  E    55  _   55    55  E
+RESIDUE    56 A  K    56  _   56    56  K
+RESIDUE    57 A  Y    57  _   57    57  Y
+TER
+END

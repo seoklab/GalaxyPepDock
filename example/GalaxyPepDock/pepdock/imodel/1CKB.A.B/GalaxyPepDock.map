@@ -1,0 +1,14 @@
+HOME  .
+QUERY GalaxyPepDock_1CKB
+TEMPL 1CKB_B_build.pdb
+RESIDUE     1 A  P     1  B    -     -  -
+RESIDUE     2 A  P     2  B    1     1  P
+RESIDUE     3 A  P     3  B    2     2  P
+RESIDUE     4 A  A     4  B    3     3  P
+RESIDUE     5 A  L     5  B    4     4  V
+RESIDUE     6 A  P     6  B    5     5  P
+RESIDUE     7 A  P     7  B    6     6  P
+RESIDUE     8 A  K     8  B    7     7  R
+RESIDUE     9 A  K     9  B    -     -  -
+TER
+END
