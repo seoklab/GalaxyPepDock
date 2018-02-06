@@ -33,14 +33,14 @@ The GalaxyPepDock distribution version supports only **Linux 64-bit** OS and bin
     (*example*: export GALAXY_HOME=/applic/GalaxyPepDock)
 
 6. Find a proper GalaxyPepDock executable
+ * We have compiled Python scripts using PyInstaller, and it uses built-in Linux C libraries. Since, each computing
+   environments may have different C libraries, so you need to find a working version with your environment. If all of
+   them are not working, then please ask us with your computing environment.
  * We supply four different GalaxyPepDock executables having compiled on different environments
     * CentOS 6.6 w GNU_libc ver 2.12       : bin/GalaxyPepDock.centos66
     * CentOS 7 w GNU_libc ver 2.17         : bin/GalaxyPepDock.centos7
     * Ubuntu 14.04 LTS w GNU_libc ver 2.19 : bin/GalaxyPepDock.ubuntu1404
     * Ubuntu 16.04 LTS w GNU libc ver 2.23 : bin/GalaxyPepDock.ubuntu1604
- * We have compiled Python scripts using PyInstaller, and it uses built-in Linux C libraries. Since, each computing
-   environments may have different C libraries, so you need to find a working version with your environment. If all of
-   them are not working, then please ask us with your computing environment.
 
 7. Set MPI environment (optional)
  * GalaxyPepDock supports MPICH, so if you have installed MPICH, you can run it in parallel.
