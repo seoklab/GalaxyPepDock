@@ -67,8 +67,8 @@ The GalaxyPepDock distribution version supports only **Linux 64-bit** OS and bin
  * In the working directory, the following two directories will be generated:   
     * pepdock: A working directory for finding template complex structure, building initial complex structure and refining protein-peptide complex structure.
     * model:  The output of GalaxyPepDock, predicted protein-peptide complex model structures in PDB format will be placed.
- * You can find template information in **{JOB Title}/pepdock/{Job Title}.templ.info file.
- * Estimated accuracy of the prediction is reported in **{JOB Title}/pepdock/{Job Title}.pepdock.report file.
+ * You can find template information in **{JOB Title}/pepdock/{Job Title}.templ.info** file.
+ * Estimated accuracy of the prediction is reported in **{JOB Title}/pepdock/{Job Title}.pepdock.report** file.
  * The final model will be **${JOB Title}/model/model_[1-10].pdb**
 
 ## 3. Release log
